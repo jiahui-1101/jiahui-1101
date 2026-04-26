@@ -78,11 +78,11 @@ I'm a Software Engineering student at **Universiti Teknologi Malaysia** with a p
 |---|---|---|
 | [**CodeNection**](https://github.com/jiahui-1101/CodeNection) | 🏆 Championship-winning project | Code Nection 2025 |
 | [**Unclogged**](https://github.com/jiahui-1101/unclogged) | Smart infrastructure solution | Delulu HackWnd 2025 |
-| [**GodamLah 2.0**](https://github.com/jiahui-1101/GodamLah2.0) | Warehouse management system | — |
-| [**SurpRice**](https://github.com/WONGZIQI0212/vhack2026-surpRice) | Food waste reduction platform | vHack 2026 |
+| [**GodamLah 2.0**](https://github.com/jiahui-1101/GodamLah2.0) | Warehouse management system | GodamLah 2.0 |
+| [**SurpRice**](https://github.com/WONGZIQI0212/vhack2026-surpRice) | Food waste reduction platform | VHack 2026 |
 | [**NextLevel UTM**](https://github.com/Sheng554/C2G10_nextlevelutm_SourceCode) | Campus experience app | — |
-| [**Borneo HackWknd**](https://github.com/jiahui-1101/borneo_hackwknd) | Hackathon project | Borneo HackWknd |
-| [**SDG XI Hackathon**](https://github.com/jiahui-1101/SDG-XI-Hackathon) | Sustainable cities challenge | SDG XI Hackathon |
+| [**Borneo HackWknd**](https://github.com/jiahui-1101/borneo_hackwknd) | Hackathon project | Borneo HackWknd 2026 |
+| [**SDG XI Hackathon**](https://github.com/jiahui-1101/SDG-XI-Hackathon) | Sustainable cities challenge | SDG XI Hackathon 2025 |
 
 ---
 
