@@ -33,8 +33,8 @@ I'm a Software Engineering student at **Universiti Teknologi Malaysia** with a p
 | Award | Event | Year |
 |---|---|---|
 | 🥇 **Champion** *(Team Leader)* | Code Nection | 2025 |
-| 🤖 **Top 8** *(Team Leader)* | UTM Robocon AutoCar Challenge | 2025 |
 | 🌐 **Netizen Choice Award** *(Team Leader)* | DIGITEX | 2026 |
+| 🤖 **Top 8** *(Team Leader)* | UTM Robocon AutoCar Challenge | 2025 |
 | 🎯 **Finalist** *(Team Leader)* | UTMxHackathon | 2026 |
 | 🌍 **Finalist** *(Team Leader)* | 2nd Smart Earth Hackathon | 2026 |
 | 🎯 **Finalist** *(Team Leader)* | Delulu Hackathon | 2025 |
@@ -100,12 +100,12 @@ I'm a Software Engineering student at **Universiti Teknologi Malaysia** with a p
 | Project | Role | Verified contributions | Visible commit share* |
 |---|---|---|---:|
 | [**JustBrightForUTM**](https://github.com/jiahui-1101/CodeNection) · Code Nection 2025 **Champion** | **Team Leader · Lead Flutter/Firebase Developer** | Built major navigation, SOS/guardian flows, emergency contacts, community feed, AI chat, authentication, settings and reporting features; handled integration, security configuration and release fixes. | **58 / 121 (47.9%)** |
-| [**Unclogged**](https://github.com/jiahui-1101/unclogged) · Delulu HackWnd 2025 **Finalist** | **Team Leader · Game Developer · Repository Owner** | Implemented the browser game's JavaScript flow, cleaner interactions, replay behaviour, visual/audio integration and project documentation. | **6 / 6 (100%)** |
+| [**SeedDown**](https://github.com/jiahui-1101/SeedDown)<br>DIGITEX 2026 **Netizen Choice Award**<br>UTMxHackathon 2026 **Finalist**<br>2nd Smart Earth Hackathon 2026 **Finalist** | **Team Leader · Lead Full-Stack & IoT Developer · Repository Maintainer** | Led broad frontend/backend integration across IoT telemetry, Firebase data, AI thresholds/advisor, farm setup and 3D views, device control, authentication/session handling, deployment and judge-facing documentation. | **129 / 217 (59.4%)** |
+| [**Unclogged**](https://github.com/jiahui-1101/unclogged) · Delulu Hackathon 2025 **Finalist** | **Team Leader · Game Developer · Repository Owner** | Implemented the browser game's JavaScript flow, cleaner interactions, replay behaviour, visual/audio integration and project documentation. | **6 / 6 (100%)** |
 | [**EcoRabbit**](https://github.com/jiahui-1101/SDG-XI-Hackathon) · SDG XI Hackathon 2025 | **Team Leader · Lead Flutter Feature Developer · Documentation Maintainer** | Developed the map and heat-map experience, home and AI chat screens, Firebase integration and UI refinements; consolidated setup, datasets and SDG 11 documentation. | **17 / 27 (63.0%)** |
 | [**PAYUNG**](https://github.com/jiahui-1101/GodamLah2.0) · Projek Payung 2025 | **Team Leader · Product Concept & Technical Documentation Owner** | Defined and documented the offline-first disaster-response concept, victim/rescuer workflows, system architecture, technology proposal and pitch deck. This repository contains concept and pitch materials, not an implemented application. | **9 / 9 (100%)** |
 | [**MHuat**](https://github.com/jiahui-1101/borneo_hackwknd) · Borneo HackWknd 2026 | **Team Leader · Flutter Feature Developer · Documentation Maintainer** | Built and refined insurance, investment, cash-in/asset, portfolio and settings flows; contributed AI comparison/chat behaviour, UI integration and final submission documentation. | **41 / 112 (36.6%)** |
 | [**SurpRice**](https://github.com/jiahui-1101/vhack2026-surpRice) · Varsity Hackathon 2026 | **AI & Dashboard Frontend Developer** | Implemented the AI chat box, anomaly/history analysis, navigator tooling and dashboard integration; also restructured the README and submission links. | **9 / 39 (23.1%)** |
-| [**SeedDown**](https://github.com/jiahui-1101/SeedDown) · UTMxHackathon 2026 | **Team Leader · Lead Full-Stack & IoT Developer · Repository Maintainer** | Led broad frontend/backend integration across IoT telemetry, Firebase data, AI thresholds/advisor, farm setup and 3D views, device control, authentication/session handling, deployment and judge-facing documentation. | **129 / 217 (59.4%)** |
 | [**NextTalent**](https://github.com/jiahui-1101/Talentbank_Tech_Hackathon) · Talentbank Tech Hackathon 2026 | **Team Leader · Prototype Lead · React Developer** | Created the initial Retention Signal Desk demo, including risk dashboards, employee/candidate data flows, opportunity matching screens and the product/AI rationale; teammates contributed UI revisions. | **4 / 6 (66.7%)** |
 
 ### 🤝 Collaborative & Academic Projects
