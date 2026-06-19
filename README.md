@@ -20,7 +20,7 @@ I'm a Software Engineering student at **Universiti Teknologi Malaysia** with a p
 
 - 📍 Malaysia
 - 🎓 B.Eng Software Engineering (Honours) Computing, UTM
-- 🏆 Code Nection 2025 Champion · Delulu HackWnd 2025 Finalist · UTM Robocon AutoCar Top 8
+- 🏆 Code Nection Champion · DIGITEX Netizen Choice Award · 4× Finalist / Top 8
 - 🎵 Flute · Guitar · Ukulele &emsp; 📷 Photography
 - 🌏 English · Malay · Chinese · Cantonese
 
@@ -31,8 +31,11 @@ I'm a Software Engineering student at **Universiti Teknologi Malaysia** with a p
 | Award | Event | Year |
 |---|---|---|
 | 🥇 **Champion** *(Team Leader)* | Code Nection | 2025 |
-| 🎯 **Finalist** | Delulu HackWnd | 2025 |
 | 🤖 **Top 8** | UTM Robocon AutoCar Challenge | 2025 |
+| 🌐 **Netizen Choice Award** | DIGITEX | 2026 |
+| 🎯 **Finalist** | UTMxHackathon | 2026 |
+| 🌍 **Finalist** | 2nd Smart Earth Hackathon | 2026 |
+| 🎯 **Finalist** | Delulu Hackathon | 2025 |
 
 ---
 
@@ -72,29 +75,40 @@ I'm a Software Engineering student at **Universiti Teknologi Malaysia** with a p
 
 ---
 
-### 📌 Public Repositories
+### 🏆 Competition Projects — Roles & Contributions
 
-*17 public project repositories · profile repository excluded*
+| Project | Role | Verified contributions | Visible commit share* |
+|---|---|---|---:|
+| [**JustBrightForUTM**](https://github.com/jiahui-1101/CodeNection) · Code Nection 2025 **Champion** | **Team Leader · Lead Flutter/Firebase Developer** | Built major navigation, SOS/guardian flows, emergency contacts, community feed, AI chat, authentication, settings and reporting features; handled integration, security configuration and release fixes. | **58 / 121 (47.9%)** |
+| [**Unclogged**](https://github.com/jiahui-1101/unclogged) · Delulu HackWnd 2025 **Finalist** | **Game Developer · Repository Owner** | Implemented the browser game's JavaScript flow, cleaner interactions, replay behaviour, visual/audio integration and project documentation. | **6 / 6 (100%)** |
+| [**EcoRabbit**](https://github.com/jiahui-1101/SDG-XI-Hackathon) · SDG XI Hackathon 2025 | **Lead Flutter Feature Developer · Documentation Maintainer** | Developed the map and heat-map experience, home and AI chat screens, Firebase integration and UI refinements; consolidated setup, datasets and SDG 11 documentation. | **17 / 27 (63.0%)** |
+| [**PAYUNG**](https://github.com/jiahui-1101/GodamLah2.0) · Projek Payung 2025 | **Product Concept & Technical Documentation Owner** | Defined and documented the offline-first disaster-response concept, victim/rescuer workflows, system architecture, technology proposal and pitch deck. This repository contains concept and pitch materials, not an implemented application. | **9 / 9 (100%)** |
+| [**MHuat**](https://github.com/jiahui-1101/borneo_hackwknd) · Borneo HackWknd 2026 | **Flutter Feature Developer · Documentation Maintainer** | Built and refined insurance, investment, cash-in/asset, portfolio and settings flows; contributed AI comparison/chat behaviour, UI integration and final submission documentation. | **41 / 112 (36.6%)** |
+| [**SurpRice**](https://github.com/jiahui-1101/vhack2026-surpRice) · Varsity Hackathon 2026 | **AI & Dashboard Frontend Developer** | Implemented the AI chat box, anomaly/history analysis, navigator tooling and dashboard integration; also restructured the README and submission links. | **9 / 39 (23.1%)** |
+| [**SeedDown**](https://github.com/jiahui-1101/SeedDown) · UTMxHackathon 2026 | **Lead Full-Stack & IoT Developer · Repository Maintainer** | Led broad frontend/backend integration across IoT telemetry, Firebase data, AI thresholds/advisor, farm setup and 3D views, device control, authentication/session handling, deployment and judge-facing documentation. | **129 / 217 (59.4%)** |
+| [**SeedDown — FlowZint Submission**](https://github.com/jiahui-1101/FlowZint_AI_Hackathon) · FlowZint AI Hackathon 2026 | **Submission & Repository Maintainer** | Consolidated the SeedDown build and tailored its architecture, closed-loop AI/IoT positioning, deployment guide and judging documentation for the FlowZint submission. The repository uses a single squashed/import commit. | **1 / 1 (100%)** |
+| [**NextTalent**](https://github.com/jiahui-1101/Talentbank_Tech_Hackathon) · Talentbank Tech Hackathon 2026 | **Prototype Lead · React Developer** | Created the initial Retention Signal Desk demo, including risk dashboards, employee/candidate data flows, opportunity matching screens and the product/AI rationale; teammates contributed UI revisions. | **4 / 6 (66.7%)** |
 
-| Project | Description | Context |
-|---|---|---|
-| [**Tree Mapping Data System**](https://github.com/jiahui-1101/Tree_Mapping_Data_System) | Role-based tree inventory, field operations, visitor education, QR access, and map visualisation prototype | SCSE2243 Application Development |
-| [**TreeMappingDataSystem**](https://github.com/jiahui-1101/TreeMappingDataSystem) | Earlier iteration of the Johor Botanical Garden tree mapping frontend | SCSE2243 Application Development |
-| [**NextTalent**](https://github.com/jiahui-1101/Talentbank_Tech_Hackathon) | AI-powered employee retention and talent re-engagement platform | Talentbank Tech Hackathon |
-| [**SeedDown**](https://github.com/jiahui-1101/SeedDown) | AI + IoT vertical farming platform with ESP32 automation and a 3D digital twin | UTMxHackathon 2026 |
-| [**SeedDown AI Farm Bot**](https://github.com/jiahui-1101/FlowZint_AI_Hackathon) | Closed-loop AI farm operations bot for IoT monitoring, diagnosis, and automation | FlowZint AI Hackathon |
-| [**Employee Directory**](https://github.com/jiahui-1101/EmployeeDirectory-with-Vue-3-Axios-Express-and-MySQL) | Full-stack employee directory built with Vue 3, Express, Axios, and MySQL | Cross-Platform Application Development |
-| [**WeatherNow**](https://github.com/jiahui-1101/WeatherNow) | Real-time weather dashboard with city search, unit conversion, and recent searches | Web application project |
-| [**Kanban Task Board**](https://github.com/jiahui-1101/KanbanTaskBoard) | Browser-based task board with priorities, filtering, and workflow columns | Web application project |
-| [**HTML Portfolio Lab**](https://github.com/jiahui-1101/html-lab-exercise-1) | Multi-page personal portfolio created as an introductory HTML exercise | HTML coursework |
-| [**SurpRice**](https://github.com/jiahui-1101/vhack2026-surpRice) | Factory intelligence and predictive maintenance platform with a 3D digital twin | Varsity Hackathon 2026 · Fork |
-| [**MHuat**](https://github.com/jiahui-1101/borneo_hackwknd) | AI-powered financial literacy, spending analysis, and financial planning app | Borneo HackWknd 2026 |
-| [**Disk Scheduler Visualizer**](https://github.com/jiahui-1101/disk_scheduler_visualizer) | Flutter visualisation tool for disk scheduling algorithms | Academic project |
-| [**Event Registration & Check-In System**](https://github.com/jiahui-1101/Event-Registration-and-Check-In-System) | C++ event workflow system using queues, linked lists, searching, and sorting | Data Structures & Algorithms |
-| [**PAYUNG**](https://github.com/jiahui-1101/GodamLah2.0) | Offline-first disaster response platform for identity, health, aid, and rescue coordination | GodamLah 2.0 |
-| [**EcoRabbit**](https://github.com/jiahui-1101/SDG-XI-Hackathon) | AI housing assistant optimising affordability, public transport, and commute impact | SDG XI Hackathon 2025 |
-| [**JustBrightForUTM**](https://github.com/jiahui-1101/CodeNection) | Smart campus mobility and safety companion with navigation and SOS features | Code Nection 2025 · Champion |
-| [**Unclogged**](https://github.com/jiahui-1101/unclogged) | Comedic browser clicker game with timed challenges, random events, and multiple endings | Delulu HackWnd 2025 · Finalist |
+### 🤝 Collaborative & Academic Projects
+
+| Project | Role | Verified contributions | Visible commit share* |
+|---|---|---|---:|
+| [**Tree Mapping Data System**](https://github.com/jiahui-1101/Tree_Mapping_Data_System) | **Frontend Integration Lead · React Developer** | Integrated the team's four subsystems and role-based flows; contributed map/3D visualisation, QR workflows, visitor data and localisation, shared services/styles, tests and consolidated documentation. | **88 / 157 (56.1%)** |
+| [**TreeMappingDataSystem**](https://github.com/jiahui-1101/TreeMappingDataSystem) | **Prototype Integrator · React Developer** | Maintained the earlier prototype and implemented QR labels/scanning, interactive map and 3D garden improvements, visitor localisation, service tests and cross-subsystem fixes. | **10 / 11 (90.9%)** |
+| [**Event Registration & Check-In System**](https://github.com/jiahui-1101/Event-Registration-and-Check-In-System) | **System Integration Lead · C++ Developer** | Integrated and revised the core classes; implemented assigned features 1, 5 and 9, search, menus, persistence and validation, with substantial work in `SystemManager`. | **19 / 28 (67.9%)** |
+
+### 💻 Individual Projects & Coursework
+
+| Project | Role | Verified contributions | Visible commit share* |
+|---|---|---|---:|
+| [**Employee Directory**](https://github.com/jiahui-1101/EmployeeDirectory-with-Vue-3-Axios-Express-and-MySQL) | **Full-Stack Developer** | Built the Vue 3 interface, Axios service, Express REST API, MySQL schema/prepared queries, CRUD/search/sort flows, validation, responsive styling and report. | **14 / 14 (100%)** |
+| [**Disk Scheduler Visualizer**](https://github.com/jiahui-1101/disk_scheduler_visualizer) | **Flutter Developer** | Implemented a Flutter visualizer for SCAN, C-SCAN, LOOK and C-LOOK scheduling with calculation, animation, controls and result components. | **1 / 1 (100%)** |
+| [**WeatherNow**](https://github.com/jiahui-1101/WeatherNow) | **Frontend Developer** | Completed the HTML/CSS/JavaScript weather interface and its staged application tasks. | **5 / 5 (100%)** |
+| [**Kanban Task Board**](https://github.com/jiahui-1101/KanbanTaskBoard) | **Frontend Developer** | Built the Kanban board structure, styling and JavaScript task-management interactions. | **4 / 4 (100%)** |
+| [**HTML Portfolio Lab**](https://github.com/jiahui-1101/html-lab-exercise-1) | **Web Developer** | Created and iterated a multi-page personal/academic site with responsive styling, project, skills and contact pages. | **19 / 19 (100%)** |
+| [**GitHub Profile**](https://github.com/jiahui-1101/jiahui-1101) | **Profile Designer & Maintainer** | Designed and maintained this profile README, project portfolio, badges, statistics and visual identity. | **6 / 6 (100%)** |
+
+<sub>*Commit share is calculated from non-merge commits visible across the public Git history as of 19 June 2026. It is evidence of repository activity, not a claim of code ownership; squashed commits, pair work, offline work and imported files may not be represented proportionally.</sub>
 
 ---
 
