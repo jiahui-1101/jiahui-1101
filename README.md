@@ -1,5 +1,11 @@
 <div align="center">
 
+<h1>Hi, I'm Wong Jia Hui 👋</h1>
+
+<h3>Software Engineering Student · Team Leader · Hackathon Builder</h3>
+
+<p>Turning ideas into practical, people-focused software.</p>
+
 [![GitHub followers](https://img.shields.io/github/followers/jiahui-1101?label=followers&style=flat&color=d63a6a&labelColor=ffd6e0)](https://github.com/jiahui-1101)
 &nbsp;
 [![Email](https://img.shields.io/badge/wongjiahui.0111%40gmail.com-d63a6a?style=flat&logo=gmail&logoColor=white&labelColor=ffd6e0)](mailto:wongjiahui.0111@gmail.com)
