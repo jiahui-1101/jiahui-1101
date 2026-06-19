@@ -72,16 +72,29 @@ I'm a Software Engineering student at **Universiti Teknologi Malaysia** with a p
 
 ---
 
-### 📌 Featured Projects
+### 📌 Public Repositories
 
-| Project | Description | Event |
+*17 public project repositories · profile repository excluded*
+
+| Project | Description | Context |
 |---|---|---|
-| [**CodeNection**](https://github.com/jiahui-1101/CodeNection) | 🏆 Championship-winning project | Code Nection 2025 |
-| [**Unclogged**](https://github.com/jiahui-1101/unclogged) | Smart infrastructure solution | Delulu HackWnd 2025 |
-| [**GodamLah 2.0**](https://github.com/jiahui-1101/GodamLah2.0) | Warehouse management system | GodamLah 2.0 |
-| [**SurpRice**](https://github.com/WONGZIQI0212/vhack2026-surpRice) | Food waste reduction platform | VHack 2026 |
-| [**Borneo HackWknd**](https://github.com/jiahui-1101/borneo_hackwknd) | Hackathon project | Borneo HackWknd 2026 |
-| [**SDG XI Hackathon**](https://github.com/jiahui-1101/SDG-XI-Hackathon) | Sustainable cities challenge | SDG XI Hackathon 2025 |
+| [**Tree Mapping Data System**](https://github.com/jiahui-1101/Tree_Mapping_Data_System) | Role-based tree inventory, field operations, visitor education, QR access, and map visualisation prototype | SCSE2243 Application Development |
+| [**TreeMappingDataSystem**](https://github.com/jiahui-1101/TreeMappingDataSystem) | Earlier iteration of the Johor Botanical Garden tree mapping frontend | SCSE2243 Application Development |
+| [**NextTalent**](https://github.com/jiahui-1101/Talentbank_Tech_Hackathon) | AI-powered employee retention and talent re-engagement platform | Talentbank Tech Hackathon |
+| [**SeedDown**](https://github.com/jiahui-1101/SeedDown) | AI + IoT vertical farming platform with ESP32 automation and a 3D digital twin | UTMxHackathon 2026 |
+| [**SeedDown AI Farm Bot**](https://github.com/jiahui-1101/FlowZint_AI_Hackathon) | Closed-loop AI farm operations bot for IoT monitoring, diagnosis, and automation | FlowZint AI Hackathon |
+| [**Employee Directory**](https://github.com/jiahui-1101/EmployeeDirectory-with-Vue-3-Axios-Express-and-MySQL) | Full-stack employee directory built with Vue 3, Express, Axios, and MySQL | Cross-Platform Application Development |
+| [**WeatherNow**](https://github.com/jiahui-1101/WeatherNow) | Real-time weather dashboard with city search, unit conversion, and recent searches | Web application project |
+| [**Kanban Task Board**](https://github.com/jiahui-1101/KanbanTaskBoard) | Browser-based task board with priorities, filtering, and workflow columns | Web application project |
+| [**HTML Portfolio Lab**](https://github.com/jiahui-1101/html-lab-exercise-1) | Multi-page personal portfolio created as an introductory HTML exercise | HTML coursework |
+| [**SurpRice**](https://github.com/jiahui-1101/vhack2026-surpRice) | Factory intelligence and predictive maintenance platform with a 3D digital twin | Varsity Hackathon 2026 · Fork |
+| [**MHuat**](https://github.com/jiahui-1101/borneo_hackwknd) | AI-powered financial literacy, spending analysis, and financial planning app | Borneo HackWknd 2026 |
+| [**Disk Scheduler Visualizer**](https://github.com/jiahui-1101/disk_scheduler_visualizer) | Flutter visualisation tool for disk scheduling algorithms | Academic project |
+| [**Event Registration & Check-In System**](https://github.com/jiahui-1101/Event-Registration-and-Check-In-System) | C++ event workflow system using queues, linked lists, searching, and sorting | Data Structures & Algorithms |
+| [**PAYUNG**](https://github.com/jiahui-1101/GodamLah2.0) | Offline-first disaster response platform for identity, health, aid, and rescue coordination | GodamLah 2.0 |
+| [**EcoRabbit**](https://github.com/jiahui-1101/SDG-XI-Hackathon) | AI housing assistant optimising affordability, public transport, and commute impact | SDG XI Hackathon 2025 |
+| [**JustBrightForUTM**](https://github.com/jiahui-1101/CodeNection) | Smart campus mobility and safety companion with navigation and SOS features | Code Nection 2025 · Champion |
+| [**Unclogged**](https://github.com/jiahui-1101/unclogged) | Comedic browser clicker game with timed challenges, random events, and multiple endings | Delulu HackWnd 2025 · Finalist |
 
 ---
 
