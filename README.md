@@ -1,9 +1,5 @@
 <div align="center">
 
-<img src="github_banner.png" alt="Wong Jia Hui" width="100%"/>
-
-<br/>
-
 [![GitHub followers](https://img.shields.io/github/followers/jiahui-1101?label=followers&style=flat&color=d63a6a&labelColor=ffd6e0)](https://github.com/jiahui-1101)
 &nbsp;
 [![Email](https://img.shields.io/badge/wongjiahui.0111%40gmail.com-d63a6a?style=flat&logo=gmail&logoColor=white&labelColor=ffd6e0)](mailto:wongjiahui.0111@gmail.com)
