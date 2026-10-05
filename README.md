@@ -2,7 +2,7 @@
 
 <h1>Hi, I'm Wong Jia Hui 👋</h1>
 
-<h3>Software Engineering Student · Team Leader · Hackathon Builder</h3>
+<h3>Software Engineering Student · Hackathon Builder</h3>
 
 <p>Turning ideas into practical, people-focused software.</p>
 
@@ -18,26 +18,28 @@
 
 ### 👋 About Me
 
-I'm a Software Engineering student at **Universiti Teknologi Malaysia** with a perfect CGPA of **4.0 / 4.0**. I enjoy building things that solve real problems — whether it's a hackathon sprint or a side project. I led my team to victory at **Code Nection 2025**, and I'm always looking for the next challenge.
+I'm a Software Engineering student at **Universiti Teknologi Malaysia** currently with CGPA of **4.0 / 4.0**. I enjoy building things that solve real problems — whether it's a hackathon sprint or a side project. I led my team to victory at **Averis x Monash Hackathon 2026** and **Code Nection 2025**, and I'm always looking for the next challenge.
 
 - 📍 Malaysia
 - 🎓 B.Eng Software Engineering (Honours) Computing, UTM
-- 🏆 Code Nection Champion · DIGITEX Netizen Choice Award · 4× Finalist / Top 8
-- 🎵 Flute · Guitar · Ukulele &emsp; 📷 Photography
+- 🏆 Averis x Monash Hackathon Champion · Code Nection Champion · DIGITEX Netizen Choice Award · 4× Finalist / Top 8
+- 🎵 Flute · Guitar · Ukulele
+- 📷 Photography
 - 🌏 English · Malay · Chinese · Cantonese
 
 ---
 
 ### 🏅 Achievements
 
-| Award | Event | Year |
-|---|---|---|
-| 🥇 **Champion** *(Team Leader)* | Code Nection | 2025 |
-| 🌐 **Netizen Choice Award** *(Team Leader)* | DIGITEX | 2026 |
-| 🤖 **Top 8** *(Team Leader)* | UTM Robocon AutoCar Challenge | 2025 |
-| 🎯 **Finalist** *(Team Leader)* | UTMxHackathon | 2026 |
-| 🌍 **Finalist** *(Team Leader)* | 2nd Smart Earth Hackathon | 2026 |
-| 🎯 **Finalist** *(Team Leader)* | Delulu Hackathon | 2025 |
+| Award | Event | Year | Role |
+|---|---|---:|---|
+| 🥇 **Champion** | Averis x Monash Hackathon | 2026 | Team Leader |
+| 🥇 **Champion** | Code Nection | 2025 | Team Leader |
+| 🌐 **Netizen Choice Award** | DIGITEX | 2026 | Team Leader |
+| 🤖 **Top 8** | UTM Robocon AutoCar Challenge | 2025 | Individual |
+| 🎯 **Finalist** | UTMxHackathon | 2026 | Team Leader |
+| 🌍 **Finalist** | 2nd Smart Earth Hackathon | 2026 | Team Leader |
+| 🎯 **Finalist** | Delulu Hackathon | 2025 | Individual |
 
 ---
 
@@ -45,7 +47,7 @@ I'm a Software Engineering student at **Universiti Teknologi Malaysia** with a p
 
 **Universiti Teknologi Malaysia** &nbsp;·&nbsp; Bachelor of Software Engineering (Honours) Computing  
 &nbsp;&nbsp;&nbsp;&nbsp;📌 CGPA **4.0 / 4.0**  
-&nbsp;&nbsp;&nbsp;&nbsp;Coursework: C++, Java, Digital Logic Design, Computer Architecture, Network Comms, MySQL, R, Software Engineering Principles
+&nbsp;&nbsp;&nbsp;&nbsp;Coursework: C++, Java, HTML, CSS, JavaScript, Digital Logic Design, Computer Architecture, Network Comms, MySQL, R, Software Engineering Principles
 
 **SMJK Ave Maria Convent** &nbsp;·&nbsp; SPM  
 &nbsp;&nbsp;&nbsp;&nbsp;📌 **10As** ⭐
