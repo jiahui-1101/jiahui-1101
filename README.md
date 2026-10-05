@@ -36,7 +36,7 @@ I'm a Software Engineering student at **Universiti Teknologi Malaysia** currentl
 | 🥇 **Champion** | Averis x Monash Hackathon | 2026 | Team Leader |
 | 🥇 **Champion** | Code Nection | 2025 | Team Leader |
 | 🌐 **Netizen Choice Award** | DIGITEX | 2026 | Team Leader |
-| 🤖 **Top 8** | UTM Robocon AutoCar Challenge | 2025 | Individual |
+| 🤖 **Top 8** | UTM Robocon AutoCar Challenge | 2024 | Individual |
 | 🎯 **Finalist** | UTMxHackathon | 2026 | Team Leader |
 | 🌍 **Finalist** | 2nd Smart Earth Hackathon | 2026 | Team Leader |
 | 🎯 **Finalist** | Delulu Hackathon | 2025 | Individual |
