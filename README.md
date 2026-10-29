@@ -35,6 +35,7 @@ I'm a Software Engineering student at **Universiti Teknologi Malaysia** currentl
 |---|---|---:|---|
 | 🥇 **Champion** | Averis x Monash Hackathon | 2026 | Team Leader |
 | 🥇 **Champion** | Code Nection | 2025 | Team Leader |
+| 🤖 **Top 5** | ZTE Project Nexus | 2026 | Team Leader |
 | 🌐 **Netizen Choice Award** | DIGITEX | 2026 | Team Leader |
 | 🤖 **Top 8** | UTM Robocon AutoCar Challenge | 2024 | Individual |
 | 🎯 **Finalist** | UTMxHackathon | 2026 | Team Leader |
@@ -103,6 +104,7 @@ I'm a Software Engineering student at **Universiti Teknologi Malaysia** currentl
 |---|---|---|---|
 | [**HolyShip**](https://github.com/jiahui-1101/HolyShip) · Averis x Monash Hackathon 2026 | 🥇 **Champion** | **Team Leader · Full-Stack Developer** | Led system integration across the backend, product API and dashboard; contributed email synchronisation, processing and storage services, human-review workflows, frontend integration, evaluation reporting and technical documentation. |
 | [**JustBrightForUTM**](https://github.com/jiahui-1101/CodeNection) · Code Nection 2025 | 🥇 **Champion** | **Team Leader · Lead Flutter/Firebase Developer** | Built major navigation, SOS/guardian flows, emergency contacts, community feed, AI chat, authentication, settings and reporting features; handled integration, security configuration and release fixes. |
+| [**CityResponder**](https://github.com/jiahui-1101/CityResponder) · ZTE Project Nexus 2026 | 🎯 **Top 5 Finalist** | **Team Leader · Lead Full-Stack, IoT & Vision Developer** | Led end-to-end architecture and integration across FastAPI, MQTT, dual ESP32 nodes and YOLOv8 vision; contributed sensor/actuator workflows, computer vision integration and system validation. |
 | [**SeedDown**](https://github.com/jiahui-1101/SeedDown)<br>DIGITEX 2026<br>UTMxHackathon 2026<br>2nd Smart Earth Hackathon 2026 | 🌐 **Netizen Choice Award** · 🎯 **2× Finalist** | **Team Leader · Lead Full-Stack & IoT Developer · Repository Maintainer** | Led broad frontend/backend integration across IoT telemetry, Firebase data, AI thresholds/advisor, farm setup and 3D views, device control, authentication/session handling, deployment and judge-facing documentation. |
 | [**Unclogged**](https://github.com/jiahui-1101/unclogged) · Delulu Hackathon 2025 | 🎯 **Finalist** | **Individual · Game Developer** | Built a humorous browser-based clicker adventure game with timed running simulation, clicker mechanics, random cleaner interruptions, animated scenes and multiple endings. |
 | [**EcoRabbit**](https://github.com/jiahui-1101/SDG-XI-Hackathon) · SDG XI Hackathon 2025 | **Participant** | **Team Leader · Lead Flutter Feature Developer · Documentation Maintainer** | Developed an AI housing assistant that helps users find transit-oriented homes using affordability, public transport connectivity and traffic prediction; contributed the map, heat-map, home and AI chat experiences. |
